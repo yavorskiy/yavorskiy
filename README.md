@@ -1,1 +1,1 @@
-![MasterHead](https://user-images.githubusercontent.com/19890852/141692364-826cd524-10a7-41b7-9b7b-bc771ed84c04.png)
+![MasterHead](https://user-images.githubusercontent.com/19890852/141692721-ef792770-1ec2-4dc9-a93c-4f7dc02234a6.png)
