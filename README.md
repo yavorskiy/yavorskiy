@@ -11,7 +11,7 @@ My name is Oleg Yavorskiy and I'm a Front-End Engeener engineer. I'm from Ukrain
 [![](https://user-images.githubusercontent.com/19890852/141693384-95e78446-7fee-4176-9842-d2fa2b0e01bc.png)](https://www.behance.net/yavorskiy)
 
 
-## 🔧 Main Stack
+## Main Stack
 ![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Markup-SCSS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
