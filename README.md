@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/19890852/141692792-93804a24-6dec-478c-a46b-715cd8822dd9.png)
+![MasterHead](https://user-images.githubusercontent.com/19890852/141693545-132eec5f-e68f-4800-95c2-5ceffea4fc0c.png)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
