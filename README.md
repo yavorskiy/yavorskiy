@@ -1,6 +1,10 @@
 ![MasterHead](https://user-images.githubusercontent.com/19890852/192091979-d025b186-fa4b-4279-af4f-8a877fa66bae.png)
 
-My name is Oleg Yavorskiy and I'm a Front-End Engineer. I'm from Ukraine, living in Kiev and currently working at Revelator LTD. You can find me on:
+I'm Oleg, Front-End Engineer with 10+ years of experience leveraging JavaScript to build responsive websites, web, and mobile apps, and interactive features that improve UX. I'm from Ukraine, living in Kiev and currently working at Revelator LTD.
+
+Always happy and open to new projects and partnerships.
+
+Let's talk about your projects! You can find me on:
 
 [![](https://user-images.githubusercontent.com/19890852/141693102-13de86d3-6cfe-40a2-841f-dbaafd5edc78.png)](https://www.linkedin.com/in/oyavorskiy/)
 [![](https://user-images.githubusercontent.com/19890852/141693195-5fadc29f-f3ec-446c-97c5-79e2d03fc3b0.png)](https://www.facebook.com/yavorskiy.web)
