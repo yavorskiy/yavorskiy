@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/19890852/192091979-d025b186-fa4b-4279-af4f-8a877fa66bae.png)
 
-I'm Oleg, Front-End Engineer with 10+ years of experience leveraging JavaScript to build responsive websites, web & mobile apps, and interactive features that improve UX. I'm from Ukraine, living in Kyiv, and currently working at Revelator LTD.
+I'm a Front-End Engineer with 10+ years of experience leveraging JavaScript to build web & mobile Apps and interactive features that improve UX. I'm from Ukraine, living in Kyiv, and currently working at Revelator LTD.
 
 Always happy and open to new projects and partnerships.
 
