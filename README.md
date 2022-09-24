@@ -1,7 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/19890852/141694408-5ce1b0e4-ae07-412a-9ffb-0c4bbed38649.png)
-
-
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![MasterHead](https://user-images.githubusercontent.com/19890852/192091609-259a739e-6f3f-401d-ac67-33d7fedba7a9.png)
 
 My name is Oleg Yavorskiy and I'm a Front-End Engineer. I'm from Ukraine, living in Kiev and currently working at Revelator LTD. You can find me on:
 
@@ -11,11 +8,9 @@ My name is Oleg Yavorskiy and I'm a Front-End Engineer. I'm from Ukraine, living
 [![](https://user-images.githubusercontent.com/19890852/141693334-48a035c6-0676-40d3-82fa-6e6969bbb171.png)](https://twitter.com/yavorskiy_web)
 [![](https://user-images.githubusercontent.com/19890852/141693384-95e78446-7fee-4176-9842-d2fa2b0e01bc.png)](https://www.behance.net/yavorskiy)
 
-
 ## Main Stack
 ![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Markup-SCSS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
