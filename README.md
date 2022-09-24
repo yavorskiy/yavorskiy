@@ -1,4 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/19890852/192091778-3ffd3831-5b28-4c85-bd42-43daaddba9ce.png)
 ![MasterHead](https://user-images.githubusercontent.com/19890852/192091979-d025b186-fa4b-4279-af4f-8a877fa66bae.png)
 
 My name is Oleg Yavorskiy and I'm a Front-End Engineer. I'm from Ukraine, living in Kiev and currently working at Revelator LTD. You can find me on:
