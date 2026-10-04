@@ -8,7 +8,7 @@ Based in Kyiv, Ukraine. Currently at Warner Music Group.
 
 Open to ambitious projects, collaborations, and partnerships.
 
-Let's talk about your projects! You can find me on:
+You can find me on:
 
 [![](https://user-images.githubusercontent.com/19890852/141693102-13de86d3-6cfe-40a2-841f-dbaafd5edc78.png)](https://www.linkedin.com/in/oyavorskiy/)
 [![](https://user-images.githubusercontent.com/19890852/141693195-5fadc29f-f3ec-446c-97c5-79e2d03fc3b0.png)](https://www.facebook.com/yavorskiy.web)
