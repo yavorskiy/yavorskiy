@@ -8,8 +8,6 @@ I build scalable web applications, design frontend architecture, and help engine
 
 Based in Kyiv, Ukraine. Currently at Warner Music Group.
 
-Open to ambitious projects, collaborations, and partnerships.
-
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oyavorskiy/)
