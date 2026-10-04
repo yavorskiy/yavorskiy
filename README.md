@@ -1,8 +1,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/19890852/192091979-d025b186-fa4b-4279-af4f-8a877fa66bae.png)
 
-I'm a Front-End Engineer with 20+ years of experience leveraging JavaScript to build web & mobile Apps and interactive features that improve UX. I'm from Ukraine, living in Kyiv, and currently working at Revelator LTD.
+Senior Front-End Engineer & Team Lead with 20+ years in software development.
 
-Always happy and open to new projects and partnerships.
+I build scalable web applications, design frontend architecture, and help engineering teams ship reliable products using Angular, TypeScript, and modern web technologies.
+
+Based in Kyiv, Ukraine. Currently at Warner Music Group.
+
+Open to ambitious projects, collaborations, and partnerships.
 
 Let's talk about your projects! You can find me on:
 
